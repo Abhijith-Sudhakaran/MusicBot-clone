@@ -1,14 +1,14 @@
 module.exports = {
-TOKEN: "",
+TOKEN: "MTEzMzMyOTUwMDY4ODYyMTYxOQ",
 ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
 botInvite: "", //write your discord bot invite.
 supportServer: "", //write your discord bot support server invite.
-mongodbURL: "", //write your mongodb url.
+mongodbURL: "mongodb+srv://EncryptedServer:Encrypted2023@owncluster.bi5tcpx.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
 status: '❤️ codeshare.me',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr, nl, pt, fr, ar, zh_TW, it, ja
 embedColor: "ffa954", //hex color code
-errorLog: "", //write your discord error log channel id.
+errorLog: "https://discord.gg/EQjwFYVE", //write your discord error log channel id.
 
 
 sponsor: {
